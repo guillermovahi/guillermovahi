@@ -1,3 +1,4 @@
+<!-- Cabecera con mi nombre-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFFF&size=30&lines=Hello+World!;I'm+Guille;)](https://git.io/typing-svg)
 
 
@@ -7,7 +8,7 @@ Future student in 42 Madrid.
 
 
 ## Contact
-
+<h2 align="center">
 <p align="center">
 
 [<img align="center" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/linkedin.png" />](https://www.linkedin.com/in/guillermovahi)
@@ -15,6 +16,7 @@ Future student in 42 Madrid.
 [<img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/twitter.png" />](https://twitter.com/guillermovahi)
 
 </p>
+</h2>
 
 ## 
 
