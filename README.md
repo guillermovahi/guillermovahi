@@ -1,15 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=7AF79A&size=30&lines=Hello+World!;I'm+Guille;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFFF&size=30&lines=Hello+World!;I'm+Guille;)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/github/followers/guillermovahi?label=Follow&style=social)](https://github.com/guillermovahi)
 <br />
 ![](https://visitor-badge.laobi.icu/badge?page_id=guillermovahi.guillermovahi)
 
-## Contact me
-
-[<img align="left" alt="guillermovahi | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/guillermovahi/)
-
 <br/>
-
 ## Languages and Tools
 <!-- C -->
 [<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://github.com/guillermovahi)
@@ -49,3 +44,19 @@
 
 <!-- Terminal -->
 [<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/guillermovahi)
+
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.1]][1], [![Instagram][2.1]][2] or on [![LinkedIn][3.1]][3].
+
+<!-- Icons -->
+
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/instagram.png
+[3.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/guillermovahi
+[2]: https://instagram.com/guillermovahi
+[3]: https://www.linkedin.com/in/guillermovahi
