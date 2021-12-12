@@ -15,8 +15,8 @@ Future student in 42 Madrid.
 <br/><br/><br/>
 <p align = "center">
 	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=guillermovahi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-	
-	[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermovahi&langs_count=5&theme=tokyonight)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermovahi&langs_count=5&theme=tokyonight)]()
 
 </p>
 <!-- Actual text -->
