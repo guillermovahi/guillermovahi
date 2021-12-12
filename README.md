@@ -63,12 +63,11 @@ Future student in 42 Madrid.
 
 ## Contact
 
-<br/>
 <p align = "center">
 You can find me on: 
 
-[<img align="center" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/linkedin.png" />](https://www.linkedin.com/in/guillermovahi)
-[<img align="center" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/instagram.png" />](https://instagram.com/guillermovahi)
-[<img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/twitter.png" />](https://twitter.com/guillermovahi)
+[<img align="center" padding-left="50px" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/linkedin.png" />](https://www.linkedin.com/in/guillermovahi)
+[<img align="center" padding-left="50px" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/instagram.png" />](https://instagram.com/guillermovahi)
+[<img align="center" padding-left="50px" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/twitter.png" />](https://twitter.com/guillermovahi)
 
 </p>
