@@ -1,4 +1,4 @@
-# Soy Guillermo Vargas Hidalgo
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=7AF79A&size=30&lines=Hello+World!;I'm+Guille;)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/github/followers/guillermovahi?label=Follow&style=social)](https://github.com/guillermovahi)
 <br />
@@ -6,7 +6,7 @@
 
 ## Contact me
 
-[<img align="left" alt="guillermovahi | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/guillermovahi/)
+[<img align="left" alt="guillermovahi | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/guillermovahi/)
 
 <br/>
 
