@@ -52,18 +52,8 @@
 ## Contact
 
 You can find me on: 
-[<img align="left" alt="Linkedin" width="20px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/linkedin.png" />](https://www.linkedin.com/in/guillermovahi),
-[<img align="left" alt="Instagram" width="20px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/instagram.png" />](https://instagram.com/guillermovahi) or on
-[<img align="left" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/twitter.png" />](https://twitter.com/guillermovahi)
+[<img align="center" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/linkedin.png" />](https://www.linkedin.com/in/guillermovahi),
+[<img align="center" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/instagram.png" />](https://instagram.com/guillermovahi) or on
+[<img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/twitter.png" />](https://twitter.com/guillermovahi)
 
 
-<!-- Icons -->
-
-[1.1]: width="20px" src=
-[2.1]: https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/instagram.png
-[3.1]: https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/linkedin.png 
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/guillermovahi
-[2]: https://instagram.com/guillermovahi
-[3]: https://www.linkedin.com/in/guillermovahi
