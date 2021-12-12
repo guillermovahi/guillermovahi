@@ -19,7 +19,10 @@ You can find me on:
 
 ## 
 
+
 <p align="center">
+	
 	[![Github](https://img.shields.io/github/followers/guillermovahi?label=Follow&style=social)](https://github.com/guillermovahi)
 	![](https://visitor-badge.laobi.icu/badge?page_id=guillermovahi.guillermovahi)
+
 </p>
