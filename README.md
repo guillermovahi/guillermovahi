@@ -4,7 +4,6 @@
 <br />
 ![](https://visitor-badge.laobi.icu/badge?page_id=guillermovahi.guillermovahi)
 
-<br/>
 ## Languages and Tools
 <!-- C -->
 [<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://github.com/guillermovahi)
@@ -53,7 +52,7 @@ You can find me on [![Twitter][1.1]][1], [![Instagram][2.1]][2] or on [![LinkedI
 <!-- Icons -->
 
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/instagram.png
+[2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/instagram.png
 [3.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 <!-- Links to your social media accounts -->
 
