@@ -1,5 +1,5 @@
 <!-- Cabecera con mi nombre-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFFF&size=30&lines=Hello+World!;I'm+Guille;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=3A7A95&size=40&lines=Hello+World!;I'm+Guille;)](https://git.io/typing-svg)
 
 
 ## About me:
@@ -7,7 +7,7 @@ I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid. <
 Future student in 42 Madrid.
 
 
-## 				Contact
+## Contact
 <h2 align="center">
 <p align="center">
 
