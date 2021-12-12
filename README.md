@@ -54,7 +54,7 @@ You can find me on [![Twitter][1.1]][1], [![Instagram][2.1]][2] or on [![LinkedI
 
 <!-- Icons -->
 
-[1.1]: https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/twitter.png
+[1.1]: width="20px" src=https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/twitter.png
 [2.1]: https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/instagram.png
 [3.1]: https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/linkedin.png 
 <!-- Links to your social media accounts -->
