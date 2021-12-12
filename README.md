@@ -46,14 +46,17 @@
 
 
 <!-- Actual text -->
+<br />
+
+## Contact
 
 You can find me on [![Twitter][1.1]][1], [![Instagram][2.1]][2] or on [![LinkedIn][3.1]][3].
 
 <!-- Icons -->
 
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/instagram.png
-[3.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/twitter.png
+[2.1]: https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/instagram.png
+[3.1]: https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/linkedin.png 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/guillermovahi
