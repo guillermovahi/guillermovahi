@@ -1,5 +1,5 @@
 <!-- Cabecera con mi nombre-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=3A7A95&size=40&lines=Hello+World!;I'm+Guille;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=3A7A95&size=35&lines=Hello+World!;I'm+Guille;)](https://git.io/typing-svg)
 
 
 ## About me:
