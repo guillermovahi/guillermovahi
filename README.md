@@ -51,7 +51,7 @@ Future student in 42 Madrid.
 <!-- Terminal -->
 [<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/guillermovahi)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?guillermovahi=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guillermovahi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!-- Actual text -->
 <br />
