@@ -19,12 +19,3 @@ Future student in 42 Madrid.
 ![](https://visitor-badge.laobi.icu/badge?page_id=guillermovahi.guillermovahi)
 </p>
 </h2>
-
-## 
-
-
-<p align="center">
-
-
-
-</p>
