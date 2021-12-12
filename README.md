@@ -54,8 +54,8 @@ Future student in 42 Madrid.
 
 <br/><br/><br/>
 <p align = "center">
-	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=guillermovahi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-	<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guillermovahi&layout=compact&langs_count=8&theme=algolia"/>
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=guillermovahi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+	<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guillermovahi&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 <!-- Actual text -->
 <br />
@@ -63,10 +63,12 @@ Future student in 42 Madrid.
 
 ## Contact
 
-You can find me on: 
 <br/>
+<p align = "center">
+You can find me on: 
 
 [<img align="center" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/linkedin.png" />](https://www.linkedin.com/in/guillermovahi)
 [<img align="center" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/instagram.png" />](https://instagram.com/guillermovahi)
 [<img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/twitter.png" />](https://twitter.com/guillermovahi)
 
+</p>
