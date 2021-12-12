@@ -11,7 +11,6 @@ Future student in 42 Madrid.
 <p align="center">
 You can find me on: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/linkedin.png" />](https://www.linkedin.com/in/guillermovahi)
 [<img align="center" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/instagram.png" />](https://instagram.com/guillermovahi)
 [<img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/guillermovahi/guillermovahi/master/images/twitter.png" />](https://twitter.com/guillermovahi)
@@ -21,8 +20,6 @@ You can find me on:
 ## 
 
 <p align="center">
-	
-[![Github](https://img.shields.io/github/followers/guillermovahi?label=Follow&style=social)](https://github.com/guillermovahi)
-![](https://visitor-badge.laobi.icu/badge?page_id=guillermovahi.guillermovahi)
-
+	[![Github](https://img.shields.io/github/followers/guillermovahi?label=Follow&style=social)](https://github.com/guillermovahi)
+	![](https://visitor-badge.laobi.icu/badge?page_id=guillermovahi.guillermovahi)
 </p>
