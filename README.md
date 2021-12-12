@@ -4,6 +4,13 @@
 <br />
 ![](https://visitor-badge.laobi.icu/badge?page_id=guillermovahi.guillermovahi)
 
+## About me:
+I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid. 
+Future student in 42 Madrid.
+
+
+
+
 ## Languages and Tools
 <!-- C -->
 [<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://github.com/guillermovahi)
