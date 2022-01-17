@@ -5,6 +5,7 @@
 ## About me:
 I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid. <br/>
 Future student in 42 Madrid.
+Actually as a Digital Assurance Intern in PwC Spain.
 
 
 ## Contact
