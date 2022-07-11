@@ -3,8 +3,10 @@
 
 
 ## About me:
-I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid. <br/>
-Future student in 42 Madrid. <br/>
+
+As a computer engineer, I am passionate about everything related to technology and what it can bring to society. <br>
+In particular, I'm a focused on web3 development and blockchain technologies. <br>
+Additionally, I am a student at the 42 Madrid school, where I am perfecting and improving my logic skills as a developer.  <br>
 
 
 ## Contact
