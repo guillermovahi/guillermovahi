@@ -3,7 +3,7 @@
 
 
 
-🧑‍💻 I’m Guille, a Computer Engineer at Telefónica Tech with experience developing and building blockchain-based solutions and applications for a wide range of sectors
+🧑‍💻 I’m Guille, a Computer Engineer at The Hashgraph Group with experience developing and building blockchain-based solutions and applications for a wide range of sectors
 
 💻 I am always learning something new, and trying to put them into practice. These days I'm studying the possibilities of ZKP as well as other things like AI.
 
